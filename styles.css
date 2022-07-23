@@ -5,13 +5,13 @@ body {
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  font-size: 2.5rem;
-  margin:  5%;
-  color: #FEF2BF;
+  font-size: 3rem;
+  margin:  4%;
+  color: #d5cece;
 }
 
 .container {
-  display: block;
+  display: block ;
   width: 50%;
   margin: auto;
 }
@@ -19,10 +19,10 @@ body {
 .btn {
   margin: 25px;
   display: inline-block;
-  height: 200px;
-  width: 200px;
-  border: 10px solid black;
-  border-radius: 20%;
+  height: 220px;
+  width: 220px;
+  border: 8px solid black;
+  border-radius: 100%;
 }
 
 .game-over {
